@@ -48,7 +48,7 @@ import solReturns from "@/assets/solution-returns.jpg";
 import logoBiozone from "@/assets/clients/biozone.webp";
 import logoBloomsbury from "@/assets/clients/bloomsbury.png";
 import logoHarper from "@/assets/clients/harpercollins.webp";
-import logoCambridge from "@/assets/clients/cambridge.png";
+import logoCambridge from "@/assets/clients/Cambridge.png";
 import logoScholastic from "@/assets/clients/scholastic.png";
 import logoTynor from "@/assets/clients/tynor.png";
 import logoMuddy from "@/assets/clients/muddy-waters.avif";
