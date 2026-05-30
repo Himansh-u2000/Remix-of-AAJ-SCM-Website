@@ -1,0 +1,166 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/services/omnichannel-fulfillment",
+      "destination": "/services/same-day-delivery",
+      "permanent": true
+    },
+    {
+      "source": "/services/same-day-next-day-delivery",
+      "destination": "/services/same-day-delivery",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/services",
+      "destination": "/services/index.html"
+    },
+    {
+      "source": "/services/warehousing",
+      "destination": "/services/warehousing/index.html"
+    },
+    {
+      "source": "/services/b2b-warehousing",
+      "destination": "/services/b2b-warehousing/index.html"
+    },
+    {
+      "source": "/services/b2c-warehousing",
+      "destination": "/services/b2c-warehousing/index.html"
+    },
+    {
+      "source": "/services/ecommerce-fulfillment",
+      "destination": "/services/ecommerce-fulfillment/index.html"
+    },
+    {
+      "source": "/services/ecommerce-delivery",
+      "destination": "/services/ecommerce-delivery/index.html"
+    },
+    {
+      "source": "/services/same-day-delivery",
+      "destination": "/services/same-day-delivery/index.html"
+    },
+    {
+      "source": "/services/transportation",
+      "destination": "/services/transportation/index.html"
+    },
+    {
+      "source": "/services/value-added",
+      "destination": "/services/value-added/index.html"
+    },
+    {
+      "source": "/services/returns-management",
+      "destination": "/services/returns-management/index.html"
+    },
+    {
+      "source": "/warehouses",
+      "destination": "/warehouses/index.html"
+    },
+    {
+      "source": "/warehouses/delhi",
+      "destination": "/warehouses/delhi/index.html"
+    },
+    {
+      "source": "/warehouses/noida",
+      "destination": "/warehouses/noida/index.html"
+    },
+    {
+      "source": "/warehouses/gurgaon",
+      "destination": "/warehouses/gurgaon/index.html"
+    },
+    {
+      "source": "/warehouses/ghaziabad",
+      "destination": "/warehouses/ghaziabad/index.html"
+    },
+    {
+      "source": "/warehouses/kundli",
+      "destination": "/warehouses/kundli/index.html"
+    },
+    {
+      "source": "/warehouses/sonipat",
+      "destination": "/warehouses/sonipat/index.html"
+    },
+    {
+      "source": "/warehouses/rohtak",
+      "destination": "/warehouses/rohtak/index.html"
+    },
+    {
+      "source": "/warehouses/bangalore",
+      "destination": "/warehouses/bangalore/index.html"
+    },
+    {
+      "source": "/warehouses/bhiwandi",
+      "destination": "/warehouses/bhiwandi/index.html"
+    },
+    {
+      "source": "/warehouses/hyderabad",
+      "destination": "/warehouses/hyderabad/index.html"
+    },
+    {
+      "source": "/warehouses/chennai",
+      "destination": "/warehouses/chennai/index.html"
+    },
+    {
+      "source": "/warehouses/kolkata",
+      "destination": "/warehouses/kolkata/index.html"
+    },
+    {
+      "source": "/capabilities",
+      "destination": "/capabilities/index.html"
+    },
+    {
+      "source": "/capabilities/technology",
+      "destination": "/capabilities/technology/index.html"
+    },
+    {
+      "source": "/capabilities/technology/wms",
+      "destination": "/capabilities/technology/wms/index.html"
+    },
+    {
+      "source": "/capabilities/technology/tms",
+      "destination": "/capabilities/technology/tms/index.html"
+    },
+    {
+      "source": "/capabilities/operations",
+      "destination": "/capabilities/operations/index.html"
+    },
+    {
+      "source": "/sustainability",
+      "destination": "/sustainability/index.html"
+    },
+    {
+      "source": "/clients",
+      "destination": "/clients/index.html"
+    },
+    {
+      "source": "/blog",
+      "destination": "/blog/index.html"
+    },
+    {
+      "source": "/glossary",
+      "destination": "/glossary/index.html"
+    },
+    {
+      "source": "/newsroom",
+      "destination": "/newsroom/index.html"
+    },
+    {
+      "source": "/about-us",
+      "destination": "/about-us/index.html"
+    },
+    {
+      "source": "/careers",
+      "destination": "/careers/index.html"
+    },
+    {
+      "source": "/contact-us",
+      "destination": "/contact-us/index.html"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
