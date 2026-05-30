@@ -1,0 +1,46 @@
+# AAJ SCM
+
+> Full-stack supply chain partner for Indian brands — warehousing, fulfillment, transportation and quick-commerce operations powered by a Pan-India network and integrated technology (WMS, OMS, TMS).
+
+AAJ SCM operates multi-client and dedicated warehouses across 12 Indian cities, with scan-based operations, real-time inventory visibility, and SLA-driven dispatch for B2B distribution, D2C and marketplace fulfillment.
+
+## Services
+
+- [Services overview](/services): 3PL, warehousing and supply chain services across India.
+- [Warehousing](/services/warehousing): Multi-client and dedicated warehousing with WMS-driven accuracy.
+- [B2B Warehousing](/services/b2b-warehousing): Bulk storage and structured distribution for B2B brands.
+- [B2C Warehousing](/services/b2c-warehousing): Each-pick fulfillment for D2C and online brands.
+- [Ecommerce Fulfillment](/services/ecommerce-fulfillment): Multi-location fulfillment across marketplaces, D2C and omnichannel.
+- [Same-Day Delivery](/services/same-day-delivery): Same-day and next-day delivery across Indian metros.
+- [Value Added Services](/services/value-added): Kitting, labelling, QC and custom packaging.
+- [Returns Management](/services/returns-management): Camera-verified reverse logistics with inventory accountability.
+
+## Warehouse Network
+
+- [Warehouse network](/warehouses): Pan-India warehouse and dark-store network overview.
+- [Delhi](/warehouses/delhi): Warehousing and fulfillment in Delhi NCR.
+- [Noida](/warehouses/noida): Warehousing in Noida.
+- [Gurgaon](/warehouses/gurgaon): Warehousing in Gurgaon.
+- [Ghaziabad](/warehouses/ghaziabad): Warehousing in Ghaziabad.
+- [Kundli](/warehouses/kundli): Warehousing in Kundli.
+- [Sonipat](/warehouses/sonipat): Warehousing in Sonipat.
+- [Rohtak](/warehouses/rohtak): Warehousing in Rohtak.
+- [Bhiwandi](/warehouses/bhiwandi): Warehousing in Bhiwandi (Mumbai region).
+- [Bangalore](/warehouses/bangalore): Warehousing in Bangalore.
+- [Hyderabad](/warehouses/hyderabad): Warehousing in Hyderabad.
+- [Chennai](/warehouses/chennai): Warehousing in Chennai.
+- [Kolkata](/warehouses/kolkata): Warehousing in Kolkata.
+
+## Capabilities
+
+- [Capabilities](/capabilities): Technology and operational capabilities behind the AAJ SCM network.
+- [Technology](/capabilities/technology): WMS, TMS and marketplace/ERP integrations.
+- [Operations](/capabilities/operations): KPI-driven warehouse operations and SLAs.
+
+## Company
+
+- [About Us](/about-us): The story and operating philosophy behind AAJ SCM.
+- [Sustainability](/sustainability): Green warehousing and responsible logistics initiatives.
+- [Clients](/clients): Client testimonials and case studies.
+- [Careers](/careers): Roles across operations, technology and supply chain.
+- [Contact Us](/contact-us): Talk to the team about warehousing, fulfillment and logistics.
