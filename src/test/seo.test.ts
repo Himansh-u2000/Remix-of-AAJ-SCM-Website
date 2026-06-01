@@ -18,6 +18,12 @@ describe("SEO registry", () => {
 });
 
 describe("buildHeadHtml", () => {
+  it("keeps the warehousing network page noindex", () => {
+    const html = buildHeadHtml(pageSeo["/warehouses"], "/warehouses");
+
+    expect(html).toContain('name="robots" content="noindex, nofollow"');
+  });
+
   it("uses social metadata overrides in prerendered production HTML", () => {
     const html = buildHeadHtml(pageSeo["/"], "/");
 

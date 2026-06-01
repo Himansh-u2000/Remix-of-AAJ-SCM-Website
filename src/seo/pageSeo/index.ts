@@ -179,6 +179,7 @@ export const pageSeo: Record<string, PageSeo> = {
     ogTitle: "AAJ SCM Warehouse Network Powering Faster & Accurate Fulfillment in India",
     ogDescription:
       "From regional fulfillment to quick commerce operations, AAJ SCM helps businesses move inventory faster through a connected Pan India warehouse network.",
+    robots: "noindex, nofollow",
   },
 
   "/capabilities": {
