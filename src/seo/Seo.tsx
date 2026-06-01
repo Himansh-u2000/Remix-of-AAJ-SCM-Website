@@ -25,7 +25,7 @@ export interface SeoProps {
   ogImage?: string;
   /** og:type. Defaults to "website". */
   ogType?: "website" | "article" | "profile";
-  /** Defaults to "index, follow". */
+  /** Defaults to "noindex, nofollow". */
   robots?: RobotsDirective;
   /** twitter:card. Defaults to summary_large_image. */
   twitterCard?: "summary" | "summary_large_image";
@@ -67,7 +67,7 @@ export const Seo = ({
   canonicalPath,
   ogImage,
   ogType = "website",
-  robots = "index, follow",
+  robots = "noindex, nofollow",
   twitterCard = "summary_large_image",
   schemas,
   alternates,

@@ -79,7 +79,7 @@ export function buildHeadHtml(
   const canonical = buildCanonical(seo.canonicalPath ?? pathname);
   const image = resolveOg(seo.ogImage);
   const ogType = seo.ogType ?? "website";
-  const robots = seo.robots ?? "index, follow";
+  const robots = seo.robots ?? "noindex, nofollow";
   const twitterCard = seo.twitterCard ?? "summary_large_image";
   const locale = siteConfig.defaultLocale.replace("-", "_");
   const finalOgTitle = seo.ogTitle ?? seo.title;
